@@ -1,4 +1,4 @@
-import os
+import 
 
 def clear_screen():
     """Clear the console screen"""
